@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "YOUR.PACKAGE.NAME",
+      "package_name": "com.anonymous.FitnessApp",
       "sha256_cert_fingerprints": [
-        "YOUR:APP:SHA256:FINGERPRINT"
+        "32:35:77:65:5E:1F:28:54:09:59:63:53:A8:75:B6:EC:E4:BB:7E:AB:3B:27:F8:E8:A1:21:BD:A0:79:47:68:50"
       ]
     }
   }
